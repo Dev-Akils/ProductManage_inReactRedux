@@ -1,0 +1,49 @@
+npm install ajv@^6.12.0 ajv-keywords@^3.5.2 --save
+
+https://youtu.be/SSXA2XluIBU?si=VvDUkdlJSsrMLfL0
+
+npm i font-awesome
+npm i bootstrap
+npm i redux react-redux
+npm i react-router-dom
+npm i react-loading-skeleton
+npm i axios
+
+
+https://fakestoreapi.com/docs
+
+karanangit remote set-url origin git@github.com:Dev-Akils/Weather_App_InReact.git
+
+git co git config --global credential.helper manager-core
+
+
+-----------------------------------------------------
+pwd
+
+cd  .\.git\    
+            
+cat .\config  
+
+git config --global user.name    
+
+git config --local user.name  
+git config --local user.email    
+ git config --list 
+ cd  .git 
+git config --show-origin --list
+cd .\weather_App_INReact\
+
+ ls -a  
+git status
+git commmit -m 'Refactored code structure'
+git reset 4906f8c10db6b980e5f38afd997c14e438919bf9
+git pull
+git rest --hard 4906f8c10db6b980e5f38afd997c14e438919bf9
+git reset --hard 4906f8c10db6b980e5f38afd997c14e438919bf9
+git push --force
+git push --set-upstream origin master
+ git reset --hard
+git log
+git rebase -i --root 
+git commit -m 'Initial Weather app setup'
+git push
